@@ -1,0 +1,48 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  border: 2px solid rgb(238, 238, 238);
+  padding-block: 8px;
+  padding-inline: 10px;
+  margin-bottom: 10px;
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+label {
+  margin-right: 8px;
+}
+
+.user_name {
+  font-size: 26px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.user_city {
+  color: gray;
+  font-style: italic;
+  font-size: 20px;
+}
+
+.flex-far {
+  display: flex;
+  justify-content: space-between;
+}
+
+.contact-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid rgb(238, 238, 238);
+  padding-block: 8px;
+  padding-inline: 10px;
+  margin-bottom: 10px;
+}
